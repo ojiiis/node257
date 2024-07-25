@@ -1,0 +1,16 @@
+{
+  "name": "node257",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"nodemon upload.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "multiparty": "^4.2.3",
+    "nodemon": "^3.1.4"
+  }
+}
